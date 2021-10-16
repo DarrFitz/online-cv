@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Mark Crowe
-url: 'http://webjeda.com'
+title: Darragh Fitzgibbon
+url: 'http://DarrFitz.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
